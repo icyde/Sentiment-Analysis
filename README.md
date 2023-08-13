@@ -12,6 +12,9 @@ Darren Chan Yu Hao
 
 Michelle Chrisalyn Djunaidi
 
+To run code: Open ML Project P1-4.ipynb.
+To evaluate code: Use EvalScript and follow its corresponding instructions
+
 In this project, the team explores what was taught in the last 4 weeks of the machine
 learning module, 50.007. Parts 1 to 3 was a semi guided implementation of a sequence
 labelling model for informal texts such as those from Twitter or Weibo, in this case, the
